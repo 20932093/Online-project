@@ -5,6 +5,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
     <title>Spring3MVC with Hibernate3 CRUD Example using Annotations</title>
+    <title></title>	
   </head>
   <body>
     <h2>Spring3MVC with Hibernate3 CRUD Example using Annotations</h2>
